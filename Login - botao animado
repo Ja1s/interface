@@ -61,7 +61,6 @@ width: -webkit-fill-available;
 .msg { 
 display: block; 
 color: #fa2929; 
-position: absolute; 
 top: 5%; 
 } 
 .field { 
